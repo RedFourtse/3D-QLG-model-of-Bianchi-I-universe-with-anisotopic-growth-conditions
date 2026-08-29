@@ -1,0 +1,8 @@
+READ ME (draft 1)
+this project is mostly accurate, but I locked the growth conditions to a single Hubble parameter. I will update it by like a couple weeks but I got exams n stuff to do
+and also I have not yet included shear; I will get back but I need to do the different hubble params first
+
+In conclusion, its missing the Kasner transformations because all the growth condition's ratios don't change, and also no triple bounce (big sad) 
+I still need to figure out how to graph it as well (each starting a and the density of the universe by end of simulation), preferable as a heatmap. 
+
+If anyone has questions, please contact jj.play919@gmail.com. I will probably respond in a week give or take
